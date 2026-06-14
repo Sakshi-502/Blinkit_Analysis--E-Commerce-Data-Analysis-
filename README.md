@@ -39,10 +39,10 @@ Average Rating: The average customer rating for items sold.
 	Objective: Analyze the correlation between outlet size and total sales.
 
 6. Sales by Outlet Location:
-	Objective: Assess the geographic distribution of sales across different locations.
+Objective: Assess the geographic distribution of sales across different locations.
 
 7. All Metrics by Outlet Type:
-	Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of 	Items, Average Rating)
+ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of 	Items, Average Rating)
  broken down by different outlet types.
 
 
