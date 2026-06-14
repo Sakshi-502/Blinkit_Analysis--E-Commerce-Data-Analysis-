@@ -1,4 +1,10 @@
 # blinkit Analysis
+<img width="238" height="95" alt="image" src="https://github.com/user-attachments/assets/70fe5b92-5b72-43d8-9a82-660e3815855a" />
+
+
+
+
+
 
 ## BUSINESS REQUIREMENT
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction,
